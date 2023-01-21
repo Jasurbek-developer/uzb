@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.cursor{
+    cursor: pointer;
+}
+.hidden{
+    display:  none !important;
+}
+.opacyty{
+    opacity: 0.5;
+}
+.content_img{
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    z-index: -9999;
+    margin-top: -120px;
+    transition: 1s all;
+}
+.btns{
+    /* position: absolute; */
+    width: 70px;
+    margin-left: 670px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.btns .btn1{
+    width: 20px;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+}
+.btns .btn2{
+    width: 20px;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+}
+.change{
+    width: 40px !important;
+    transition:.3s;
+    background: rgba(255, 255, 255, .4);
+}
+.texts{
+    /* position: absolute; */
+    width: 80%;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: 2px 2px black;
+    margin-left: 160px;
+    padding-top: 220px;
+}
+.texts h1{
+    margin-bottom: 10px;
+    color: white;
+}
+.texts h2{
+    color: white;
+}
+.chances{
+    /* position: absolute; */
+    color: #001D38;
+    background-color: white;
+    height: auto;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 40px;
+    padding: 10px 50px;
+}
+.chance_btn{
+    font-size: 20px;
+    background-color: white;
+    padding: 14px;
+    border: none;
+    color: #001D38;
+}
+
+.chance2_item2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ticket_btn{
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-left: 1060px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ticket_btn:hover{
+    cursor: pointer;
+}
+.chance3_item3 p{
+    width: 70%;
+}
+.wrappers{
+    /* position: absolute; */
+    width: 80%;
+    margin: auto;
+    margin-top: 170px;
+}
+.wrappers img{
+    width: 500px;
+    border-radius: 30px;
+}
+.wrappers p{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.wrappers a{
+    text-decoration: none;
+    color: #001D38;
+
+}
+.offer{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.offer h1{
+    margin-bottom: 30px;
+}
+.last{
+    margin-right: 0;
+}
+.chance1{
+    height: 120px;
+}

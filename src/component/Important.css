@@ -1,0 +1,39 @@
+.content_box{
+    padding-top: 200px;
+    width: 100%;
+}
+.background_img{
+    background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/221123081324-02-flight-attendant-qa-seats-super-tease.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 1100px;
+    margin: 0 auto;
+    height: 400px;
+    background: linear-gradient(99.79deg, #4274b8 0, #214480 57.36%);
+    border-radius: 20px;
+    padding: 20px;
+}
+.airplus{
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: auto;
+}
+.back_title{
+    color:white;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.back_text{
+    color:white;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.air_plus{
+    width: 1000px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    /* background-color: rgba(0,0,0,0.5);
+    backdrop-filter: blur(4px); */
+}

@@ -1,0 +1,24 @@
+.offer{
+    width: 90%;
+    margin: auto;
+}
+.offer_img{
+    width: 200px;
+    height: 134px;
+    border-radius: 20px;
+    margin-right: 60px;
+}
+
+.offer p{
+    position: absolute;
+    z-index: 999;
+    margin-top: -40px;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-left: 75px;
+}
+.offer h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
